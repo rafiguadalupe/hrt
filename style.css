@@ -1,0 +1,72 @@
+#monke{
+    background-color: black;   
+    color: whitesmoke;
+    }
+#heading1{
+    font-size: 134px;
+    color: blue;
+    text-shadow: 10px 10px 10px white;
+}
+.movie_pic{
+    
+    height: 600px;
+    width: 400px;
+}
+.pic_name{
+color: blue;
+font-size: 30px;
+}
+#transformers {
+    color: black;
+}
+#movie65 {
+    color: black;
+}
+#mario {
+    color: black;
+}
+#pussinboots2 {
+    color: black;
+}
+#therockiscool {
+    color: black;
+}
+#thelizardiscool{
+    color: black;
+}
+.cpic {
+    width: 700px;
+    height: 900px;
+}
+#intheatersnow {
+ text-align: center;
+ margin-top: 20px;
+}
+#logo2 {
+    width: 200px;
+    height:200px;
+    border-radius: 100px;
+}
+#upcomingmovies {
+    color: red;
+    text-shadow: rgb(55, 124, 117) 3px 5px 5px;
+    font-size: 50px;
+}
+#intheatersnow {
+    color: red;
+    text-shadow: rgb(55, 124, 117) 3px 5px 5px;
+    font-size: 50px;
+     margin-top: 800px;
+}
+#foodandrinks {
+    color: red;
+    text-shadow: rgb(55, 124, 117) 3px 5px 5px;
+    font-size: 50px;
+    margin-top: 800px;
+}
+#extras {
+    color: red;
+    text-shadow: rgb(55, 124, 117) 3px 5px 5px;
+    font-size: 50px;
+    margin-top: 100px;
+}
